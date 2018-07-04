@@ -22,5 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
+        TextView tt = new TextView(this);
+        tt.setText("branch dev");
     }
 }
